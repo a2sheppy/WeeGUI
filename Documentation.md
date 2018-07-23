@@ -921,7 +921,7 @@ Not available
 
 
 ####WGViewHeight
-Changes the content width of the currently selected view.
+Changes the content height of the currently selected view.
 
 <table width="100%">
 <tr><th>Assembly</th><th>Applesoft</th></tr><tr><td>
